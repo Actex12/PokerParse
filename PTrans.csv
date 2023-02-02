@@ -1,0 +1,23 @@
+PType,Descr,CMatch,CMatchSub,MatchLen
+001,PSB,%: posts small blind%,: posts small blind,19
+002,PBB,%: posts big blind%,: posts big blind,17
+003,RAZ,%: raises%,: raises,8
+004,CLL,%: calls %,: calls,7
+005,FLD,%: folds%,: folds,7
+006,FLP,*** FLOP ***%,*** FLOP ***,12
+007,BET,%: bets %,: bets,6
+008,UCB,Uncalled bet (%,Uncalled bet (,14
+009,SP ,% collected % from pot, collected % from pot,21
+010,TRN,*** TURN ***%,*** TURN ***,12
+011,CHK,%: checks%,: checks,8
+012,RVR,*** RIVER ***%,*** RIVER ***,13
+013,SHW,%: shows /[%,: shows,7
+014,SDN,*** SHOW DOWN ***,*** SHOW DOWN ***,17
+015,TMO,% has timed out,has timed out,13
+016,PAT,%: posts the ante %,: posts the ante,16
+017,MUK,%: mucks hand%,: mucks hand,12
+018,DSH,%: doesn't show hand%,: doesn't show hand,19
+019,FTT,% finished the tournament%, finished the tournament,24
+020,CSP,% collected % from side pot%,collected % from side pot,25
+021,CMP,% collected % from main pot%,collected % from main pot,25
+022,PTX,% said, "%"%,said, "%",9
