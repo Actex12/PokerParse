@@ -1,0 +1,2146 @@
+﻿PokerStars Hand #193563713416: Tournament #2457182185, 8700+1300 Hold'em No Limit - Level I (10/20) - 2018/11/20 19:05:02 ET
+Table '2457182185 15' 9-max Seat #1 is the button
+Seat 1: pela659 (1500 in chips) 
+Seat 2: PktRockets (1500 in chips) 
+Seat 3: Gleison333 (1500 in chips) 
+Seat 4: palmabeach63 (1500 in chips) 
+Seat 6: TXROPER1 (1500 in chips) 
+Seat 7: Actex12 (1500 in chips) 
+Seat 8: marmagoa (1500 in chips) 
+Seat 9: gildedlilly (1500 in chips) 
+PktRockets: posts small blind 10
+Gleison333: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Actex12 [Qc Td]
+palmabeach63: raises 50 to 70
+TXROPER1: calls 70
+Actex12: folds 
+marmagoa: folds 
+gildedlilly: folds 
+pela659: folds 
+PktRockets: folds 
+Gleison333: folds 
+*** FLOP *** [Tc As Kc]
+palmabeach63: bets 160
+TXROPER1: calls 160
+*** TURN *** [Tc As Kc] [Jh]
+palmabeach63: checks 
+TXROPER1: bets 120
+palmabeach63: folds 
+Uncalled bet (120) returned to TXROPER1
+TXROPER1 collected 490 from pot
+TXROPER1: doesn't show hand 
+*** SUMMARY ***
+Total pot 490 | Rake 0 
+Board [Tc As Kc Jh]
+Seat 1: pela659 (button) folded before Flop (didn't bet)
+Seat 2: PktRockets (small blind) folded before Flop
+Seat 3: Gleison333 (big blind) folded before Flop
+Seat 4: palmabeach63 folded on the Turn
+Seat 6: TXROPER1 collected (490)
+Seat 7: Actex12 folded before Flop (didn't bet)
+Seat 8: marmagoa folded before Flop (didn't bet)
+Seat 9: gildedlilly folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #193563746985: Tournament #2457182185, 8700+1300 Hold'em No Limit - Level I (10/20) - 2018/11/20 19:06:11 ET
+Table '2457182185 15' 9-max Seat #2 is the button
+Seat 2: PktRockets (1490 in chips) 
+Seat 3: Gleison333 (1480 in chips) 
+Seat 4: palmabeach63 (1270 in chips) 
+Seat 5: gu_tascheck (1500 in chips) 
+Seat 6: TXROPER1 (1760 in chips) 
+Seat 7: Actex12 (1500 in chips) 
+Seat 8: marmagoa (1500 in chips) 
+Seat 9: gildedlilly (1500 in chips) 
+Gleison333: posts small blind 10
+palmabeach63: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Actex12 [8s Ad]
+gu_tascheck: raises 1480 to 1500 and is all-in
+TXROPER1: folds 
+Actex12: folds 
+marmagoa: folds 
+gildedlilly: folds 
+PktRockets: folds 
+Gleison333: folds 
+palmabeach63: folds 
+Uncalled bet (1480) returned to gu_tascheck
+gu_tascheck collected 50 from pot
+gu_tascheck: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 2: PktRockets (button) folded before Flop (didn't bet)
+Seat 3: Gleison333 (small blind) folded before Flop
+Seat 4: palmabeach63 (big blind) folded before Flop
+Seat 5: gu_tascheck collected (50)
+Seat 6: TXROPER1 folded before Flop (didn't bet)
+Seat 7: Actex12 folded before Flop (didn't bet)
+Seat 8: marmagoa folded before Flop (didn't bet)
+Seat 9: gildedlilly folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #193563762005: Tournament #2457182185, 8700+1300 Hold'em No Limit - Level I (10/20) - 2018/11/20 19:06:42 ET
+Table '2457182185 15' 9-max Seat #3 is the button
+Seat 1: Goldor999 (1500 in chips) 
+Seat 2: PktRockets (1490 in chips) 
+Seat 3: Gleison333 (1470 in chips) 
+Seat 4: palmabeach63 (1250 in chips) 
+Seat 5: gu_tascheck (1530 in chips) 
+Seat 6: TXROPER1 (1760 in chips) 
+Seat 7: Actex12 (1500 in chips) 
+Seat 8: marmagoa (1500 in chips) 
+Seat 9: gildedlilly (1500 in chips) 
+palmabeach63: posts small blind 10
+gu_tascheck: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Actex12 [3c Ts]
+TXROPER1: calls 20
+Actex12: folds 
+marmagoa: folds 
+gildedlilly: folds 
+Goldor999: folds 
+PktRockets: folds 
+Gleison333: raises 20 to 40
+palmabeach63: raises 120 to 160
+gu_tascheck: calls 140
+TXROPER1: calls 140
+Gleison333: calls 120
+*** FLOP *** [Kd Js 2d]
+palmabeach63: bets 1090 and is all-in
+gu_tascheck: calls 1090
+TXROPER1: folds 
+Gleison333: folds 
+*** TURN *** [Kd Js 2d] [3h]
+*** RIVER *** [Kd Js 2d 3h] [Th]
+*** SHOW DOWN ***
+palmabeach63: shows [Ah Jc] (a pair of Jacks)
+gu_tascheck: shows [Ks Ac] (a pair of Kings)
+gu_tascheck collected 2820 from pot
+palmabeach63 finished the tournament
+*** SUMMARY ***
+Total pot 2820 | Rake 0 
+Board [Kd Js 2d 3h Th]
+Seat 1: Goldor999 folded before Flop (didn't bet)
+Seat 2: PktRockets folded before Flop (didn't bet)
+Seat 3: Gleison333 (button) folded on the Flop
+Seat 4: palmabeach63 (small blind) showed [Ah Jc] and lost with a pair of Jacks
+Seat 5: gu_tascheck (big blind) showed [Ks Ac] and won (2820) with a pair of Kings
+Seat 6: TXROPER1 folded on the Flop
+Seat 7: Actex12 folded before Flop (didn't bet)
+Seat 8: marmagoa folded before Flop (didn't bet)
+Seat 9: gildedlilly folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #193563792327: Tournament #2457182185, 8700+1300 Hold'em No Limit - Level I (10/20) - 2018/11/20 19:07:46 ET
+Table '2457182185 15' 9-max Seat #5 is the button
+Seat 1: Goldor999 (1500 in chips) 
+Seat 2: PktRockets (1490 in chips) 
+Seat 3: Gleison333 (1310 in chips) 
+Seat 5: gu_tascheck (3100 in chips) 
+Seat 6: TXROPER1 (1600 in chips) 
+Seat 7: Actex12 (1500 in chips) 
+Seat 8: marmagoa (1500 in chips) 
+Seat 9: gildedlilly (1500 in chips) 
+TXROPER1: posts small blind 10
+Actex12: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Actex12 [Kd 3s]
+marmagoa: calls 20
+gildedlilly: calls 20
+Goldor999: calls 20
+PktRockets: folds 
+Gleison333: raises 100 to 120
+gu_tascheck: folds 
+TXROPER1: folds 
+Actex12: folds 
+marmagoa: calls 100
+gildedlilly: calls 100
+Goldor999: calls 100
+*** FLOP *** [2d 3c Ad]
+marmagoa: bets 20
+gildedlilly: calls 20
+Goldor999: calls 20
+Gleison333: raises 240 to 260
+marmagoa: calls 240
+gildedlilly: calls 240
+Goldor999: folds 
+*** TURN *** [2d 3c Ad] [Qc]
+marmagoa: checks 
+gildedlilly: checks 
+Gleison333: bets 300
+marmagoa: calls 300
+gildedlilly: calls 300
+*** RIVER *** [2d 3c Ad Qc] [6d]
+marmagoa: checks 
+gildedlilly: bets 820 and is all-in
+Gleison333: calls 630 and is all-in
+marmagoa: folds 
+Uncalled bet (190) returned to gildedlilly
+*** SHOW DOWN ***
+gildedlilly: shows [5c 6c] (a pair of Sixes)
+Gleison333: shows [As Kc] (a pair of Aces)
+Gleison333 collected 3470 from pot
+*** SUMMARY ***
+Total pot 3470 | Rake 0 
+Board [2d 3c Ad Qc 6d]
+Seat 1: Goldor999 folded on the Flop
+Seat 2: PktRockets folded before Flop (didn't bet)
+Seat 3: Gleison333 showed [As Kc] and won (3470) with a pair of Aces
+Seat 5: gu_tascheck (button) folded before Flop (didn't bet)
+Seat 6: TXROPER1 (small blind) folded before Flop
+Seat 7: Actex12 (big blind) folded before Flop
+Seat 8: marmagoa folded on the River
+Seat 9: gildedlilly showed [5c 6c] and lost with a pair of Sixes
+
+
+
+PokerStars Hand #193563841729: Tournament #2457182185, 8700+1300 Hold'em No Limit - Level I (10/20) - 2018/11/20 19:09:29 ET
+Table '2457182185 15' 9-max Seat #6 is the button
+Seat 1: Goldor999 (1360 in chips) 
+Seat 2: PktRockets (1490 in chips) 
+Seat 3: Gleison333 (3470 in chips) 
+Seat 4: surfcamp171 (1500 in chips) 
+Seat 5: gu_tascheck (3100 in chips) 
+Seat 6: TXROPER1 (1590 in chips) 
+Seat 7: Actex12 (1480 in chips) 
+Seat 8: marmagoa (820 in chips) is sitting out
+Seat 9: gildedlilly (190 in chips) 
+Actex12: posts small blind 10
+marmagoa: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Actex12 [Ad 7c]
+gildedlilly: raises 170 to 190 and is all-in
+Goldor999: calls 190
+PktRockets: folds 
+Gleison333: folds 
+surfcamp171: folds 
+gu_tascheck: folds 
+TXROPER1: folds 
+Actex12: folds 
+marmagoa: calls 170
+*** FLOP *** [3d Tc 4h]
+marmagoa: checks 
+Goldor999: bets 640
+marmagoa: folds 
+Uncalled bet (640) returned to Goldor999
+*** TURN *** [3d Tc 4h] [5c]
+*** RIVER *** [3d Tc 4h 5c] [6s]
+*** SHOW DOWN ***
+gildedlilly: shows [5d 4d] (two pair, Fives and Fours)
+Goldor999: shows [Jc Qd] (high card Queen)
+gildedlilly collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | Rake 0 
+Board [3d Tc 4h 5c 6s]
+Seat 1: Goldor999 showed [Jc Qd] and lost with high card Queen
+Seat 2: PktRockets folded before Flop (didn't bet)
+Seat 3: Gleison333 folded before Flop (didn't bet)
+Seat 4: surfcamp171 folded before Flop (didn't bet)
+Seat 5: gu_tascheck folded before Flop (didn't bet)
+Seat 6: TXROPER1 (button) folded before Flop (didn't bet)
+Seat 7: Actex12 (small blind) folded before Flop
+Seat 8: marmagoa (big blind) folded on the Flop
+Seat 9: gildedlilly showed [5d 4d] and won (580) with two pair, Fives and Fours
+
+
+
+PokerStars Hand #193563865326: Tournament #2457182185, 8700+1300 Hold'em No Limit - Level II (15/30) - 2018/11/20 19:10:19 ET
+Table '2457182185 15' 9-max Seat #7 is the button
+Seat 1: Goldor999 (1170 in chips) 
+Seat 2: PktRockets (1490 in chips) 
+Seat 3: Gleison333 (3470 in chips) 
+Seat 4: surfcamp171 (1500 in chips) 
+Seat 5: gu_tascheck (3100 in chips) 
+Seat 6: TXROPER1 (1590 in chips) 
+Seat 7: Actex12 (1470 in chips) 
+Seat 8: marmagoa (630 in chips) is sitting out
+Seat 9: gildedlilly (580 in chips) 
+marmagoa: posts small blind 15
+gildedlilly: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Actex12 [4s 8s]
+Goldor999: folds 
+PktRockets: folds 
+Gleison333: folds 
+surfcamp171 has timed out
+surfcamp171: folds 
+gu_tascheck: calls 30
+TXROPER1: folds 
+Actex12: folds 
+marmagoa: calls 15
+gildedlilly: checks 
+*** FLOP *** [3d Td Th]
+marmagoa: checks 
+gildedlilly: bets 550 and is all-in
+gu_tascheck: folds 
+marmagoa: folds 
+Uncalled bet (550) returned to gildedlilly
+gildedlilly collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [3d Td Th]
+Seat 1: Goldor999 folded before Flop (didn't bet)
+Seat 2: PktRockets folded before Flop (didn't bet)
+Seat 3: Gleison333 folded before Flop (didn't bet)
+Seat 4: surfcamp171 folded before Flop (didn't bet)
+Seat 5: gu_tascheck folded on the Flop
+Seat 6: TXROPER1 folded before Flop (didn't bet)
+Seat 7: Actex12 (button) folded before Flop (didn't bet)
+Seat 8: marmagoa (small blind) folded on the Flop
+Seat 9: gildedlilly (big blind) collected (90)
+
+
+
+PokerStars Hand #193563890099: Tournament #2457182185, 8700+1300 Hold'em No Limit - Level II (15/30) - 2018/11/20 19:11:10 ET
+Table '2457182185 15' 9-max Seat #8 is the button
+Seat 1: Goldor999 (1170 in chips) 
+Seat 2: PktRockets (1490 in chips) 
+Seat 3: Gleison333 (3470 in chips) 
+Seat 4: surfcamp171 (1500 in chips) is sitting out
+Seat 5: gu_tascheck (3070 in chips) 
+Seat 6: TXROPER1 (1590 in chips) 
+Seat 7: Actex12 (1470 in chips) 
+Seat 8: marmagoa (600 in chips) 
+Seat 9: gildedlilly (640 in chips) 
+gildedlilly: posts small blind 15
+Goldor999: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Actex12 [6s 2s]
+PktRockets: folds 
+Gleison333: folds 
+surfcamp171: folds 
+gu_tascheck: calls 30
+TXROPER1: calls 30
+Actex12: folds 
+marmagoa: calls 30
+gildedlilly: calls 15
+Goldor999: checks 
+*** FLOP *** [2h Qs 9c]
+gildedlilly: checks 
+Goldor999: checks 
+gu_tascheck: checks 
+TXROPER1: checks 
+marmagoa: checks 
+*** TURN *** [2h Qs 9c] [7s]
+Goldor999 said, "zzzzzzzzzzzzzzzzz"
+gildedlilly: checks 
+Goldor999: bets 150
+gu_tascheck: folds 
+TXROPER1: folds 
+marmagoa: calls 150
+gildedlilly: folds 
+*** RIVER *** [2h Qs 9c 7s] [6d]
+Goldor999: checks 
+marmagoa: checks 
+*** SHOW DOWN ***
+Goldor999: shows [8d 7c] (a pair of Sevens)
+marmagoa: shows [7d As] (a pair of Sevens - Ace kicker)
+marmagoa collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | Rake 0 
+Board [2h Qs 9c 7s 6d]
+Seat 1: Goldor999 (big blind) showed [8d 7c] and lost with a pair of Sevens
+Seat 2: PktRockets folded before Flop (didn't bet)
+Seat 3: Gleison333 folded before Flop (didn't bet)
+Seat 4: surfcamp171 folded before Flop (didn't bet)
+Seat 5: gu_tascheck folded on the Turn
+Seat 6: TXROPER1 folded on the Turn
+Seat 7: Actex12 folded before Flop (didn't bet)
+Seat 8: marmagoa (button) showed [7d As] and won (450) with a pair of Sevens
+Seat 9: gildedlilly (small blind) folded on the Turn
+
+
+
+PokerStars Hand #193563933805: Tournament #2457182185, 8700+1300 Hold'em No Limit - Level II (15/30) - 2018/11/20 19:12:42 ET
+Table '2457182185 15' 9-max Seat #9 is the button
+Seat 1: Goldor999 (990 in chips) 
+Seat 2: PktRockets (1490 in chips) 
+Seat 4: surfcamp171 (1500 in chips) 
+Seat 5: gu_tascheck (3040 in chips) 
+Seat 6: TXROPER1 (1560 in chips) 
+Seat 7: Actex12 (1470 in chips) is sitting out
+Seat 8: marmagoa (870 in chips) 
+Seat 9: gildedlilly (610 in chips) 
+Goldor999: posts small blind 15
+PktRockets: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Actex12 [Th 2c]
+surfcamp171: calls 30
+gu_tascheck: folds 
+TXROPER1: calls 30
+Actex12: folds 
+marmagoa: calls 30
+gildedlilly: calls 30
+Goldor999: folds 
+PktRockets: raises 480 to 510
+surfcamp171: folds 
+TXROPER1: calls 480
+marmagoa: folds 
+gildedlilly: folds 
+*** FLOP *** [3c 4h 6c]
+PktRockets: bets 510
+TXROPER1: calls 510
+*** TURN *** [3c 4h 6c] [Ah]
+PktRockets: checks 
+TXROPER1: checks 
+*** RIVER *** [3c 4h 6c Ah] [Qh]
+PktRockets: bets 470 and is all-in
+TXROPER1: folds 
+Uncalled bet (470) returned to PktRockets
+PktRockets collected 2145 from pot
+PktRockets: shows [Qs Qd] (three of a kind, Queens)
+*** SUMMARY ***
+Total pot 2145 | Rake 0 
+Board [3c 4h 6c Ah Qh]
+Seat 1: Goldor999 (small blind) folded before Flop
+Seat 2: PktRockets (big blind) collected (2145)
+Seat 4: surfcamp171 folded before Flop
+Seat 5: gu_tascheck folded before Flop (didn't bet)
+Seat 6: TXROPER1 folded on the River
+Seat 7: Actex12 folded before Flop (didn't bet)
+Seat 8: marmagoa folded before Flop
+Seat 9: gildedlilly (button) folded before Flop
+
+
+
+PokerStars Hand #193563972541: Tournament #2457182185, 8700+1300 Hold'em No Limit - Level II (15/30) - 2018/11/20 19:13:58 ET
+Table '2457182185 15' 9-max Seat #1 is the button
+Seat 1: Goldor999 (975 in chips) 
+Seat 2: PktRockets (2615 in chips) 
+Seat 3: pizarreño92 (1500 in chips) 
+Seat 4: surfcamp171 (1470 in chips) 
+Seat 5: gu_tascheck (3040 in chips) 
+Seat 6: TXROPER1 (540 in chips) 
+Seat 7: Actex12 (1470 in chips) is sitting out
+Seat 8: marmagoa (840 in chips) 
+Seat 9: gildedlilly (580 in chips) 
+PktRockets: posts small blind 15
+pizarreño92: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Actex12 [Ah Th]
+surfcamp171: calls 30
+gu_tascheck: folds 
+TXROPER1: calls 30
+Actex12: folds 
+marmagoa: calls 30
+gildedlilly: folds 
+Goldor999: calls 30
+PktRockets: calls 15
+pizarreño92: checks 
+*** FLOP *** [2c Td 3s]
+PktRockets: checks 
+pizarreño92: checks 
+surfcamp171: checks 
+TXROPER1: checks 
+marmagoa: checks 
+Goldor999: checks 
+*** TURN *** [2c Td 3s] [Jh]
+Goldor999 said, "zzzzzzzzzzzzzzz"
+PktRockets: checks 
+pizarreño92: checks 
+surfcamp171: checks 
+TXROPER1: bets 120
+marmagoa: calls 120
+Goldor999: calls 120
+PktRockets: folds 
+pizarreño92: calls 120
+surfcamp171: calls 120
+*** RIVER *** [2c Td 3s Jh] [Kc]
+pizarreño92: checks 
+surfcamp171: checks 
+TXROPER1: checks 
+marmagoa: checks 
+Goldor999: bets 825 and is all-in
+pizarreño92: folds 
+surfcamp171: folds 
+TXROPER1: folds 
+marmagoa: folds 
+Uncalled bet (825) returned to Goldor999
+Goldor999 collected 780 from pot
+Goldor999: doesn't show hand 
+*** SUMMARY ***
+Total pot 780 | Rake 0 
+Board [2c Td 3s Jh Kc]
+Seat 1: Goldor999 (button) collected (780)
+Seat 2: PktRockets (small blind) folded on the Turn
+Seat 3: pizarreño92 (big blind) folded on the River
+Seat 4: surfcamp171 folded on the River
+Seat 5: gu_tascheck folded before Flop (didn't bet)
+Seat 6: TXROPER1 folded on the River
+Seat 7: Actex12 folded before Flop (didn't bet)
+Seat 8: marmagoa folded on the River
+Seat 9: gildedlilly folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #193564035512: Tournament #2457182185, 8700+1300 Hold'em No Limit - Level III (25/50) - 2018/11/20 19:16:12 ET
+Table '2457182185 15' 9-max Seat #2 is the button
+Seat 1: Goldor999 (1605 in chips) 
+Seat 2: PktRockets (2585 in chips) 
+Seat 3: pizarreño92 (1350 in chips) 
+Seat 4: surfcamp171 (1320 in chips) 
+Seat 5: gu_tascheck (3040 in chips) 
+Seat 6: TXROPER1 (390 in chips) 
+Seat 7: Actex12 (1470 in chips) is sitting out
+Seat 8: marmagoa (690 in chips) 
+Seat 9: gildedlilly (580 in chips) 
+pizarreño92: posts small blind 25
+surfcamp171: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Actex12 [Td Ah]
+gu_tascheck: calls 50
+TXROPER1: calls 50
+Actex12: folds 
+marmagoa: calls 50
+gildedlilly: folds 
+Goldor999: raises 1555 to 1605 and is all-in
+PktRockets: folds 
+pizarreño92: calls 1325 and is all-in
+surfcamp171: folds 
+gu_tascheck: calls 1555
+TXROPER1: calls 340 and is all-in
+marmagoa: folds 
+*** FLOP *** [2c As Js]
+*** TURN *** [2c As Js] [5d]
+*** RIVER *** [2c As Js 5d] [4d]
+*** SHOW DOWN ***
+gu_tascheck: shows [6c 6s] (a pair of Sixes)
+Goldor999: shows [4h 4s] (three of a kind, Fours)
+Goldor999 collected 510 from side pot-2 
+pizarreño92: shows [Kd Qd] (high card Ace)
+Goldor999 collected 2880 from side pot-1 
+TXROPER1: shows [7d 7c] (a pair of Sevens)
+Goldor999 collected 1660 from main pot
+pizarreño92 finished the tournament
+TXROPER1 finished the tournament
+*** SUMMARY ***
+Total pot 5050 Main pot 1660. Side pot-1 2880. Side pot-2 510. | Rake 0 
+Board [2c As Js 5d 4d]
+Seat 1: Goldor999 showed [4h 4s] and won (5050) with three of a kind, Fours
+Seat 2: PktRockets (button) folded before Flop (didn't bet)
+Seat 3: pizarreño92 (small blind) showed [Kd Qd] and lost with high card Ace
+Seat 4: surfcamp171 (big blind) folded before Flop
+Seat 5: gu_tascheck showed [6c 6s] and lost with a pair of Sixes
+Seat 6: TXROPER1 showed [7d 7c] and lost with a pair of Sevens
+Seat 7: Actex12 folded before Flop (didn't bet)
+Seat 8: marmagoa folded before Flop
+Seat 9: gildedlilly folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #193564054159: Tournament #2457182185, 8700+1300 Hold'em No Limit - Level III (25/50) - 2018/11/20 19:16:53 ET
+Table '2457182185 15' 9-max Seat #4 is the button
+Seat 1: Goldor999 (5050 in chips) 
+Seat 2: PktRockets (2585 in chips) 
+Seat 4: surfcamp171 (1270 in chips) 
+Seat 5: gu_tascheck (1435 in chips) 
+Seat 7: Actex12 (1470 in chips) is sitting out
+Seat 8: marmagoa (640 in chips) 
+Seat 9: gildedlilly (580 in chips) 
+gu_tascheck: posts small blind 25
+Actex12: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Actex12 [7c 5h]
+marmagoa: calls 50
+gildedlilly has timed out
+gildedlilly: folds 
+Goldor999: calls 50
+PktRockets: folds 
+surfcamp171: calls 50
+gu_tascheck: calls 25
+Actex12: folds 
+*** FLOP *** [2h Ac 9c]
+gu_tascheck: checks 
+marmagoa: checks 
+Goldor999: checks 
+surfcamp171: checks 
+*** TURN *** [2h Ac 9c] [2d]
+gu_tascheck: checks 
+marmagoa: checks 
+Goldor999: checks 
+surfcamp171: checks 
+*** RIVER *** [2h Ac 9c 2d] [Ts]
+gu_tascheck: checks 
+marmagoa: checks 
+Goldor999: checks 
+surfcamp171: bets 300
+gu_tascheck: calls 300
+marmagoa: folds 
+Goldor999: folds 
+*** SHOW DOWN ***
+surfcamp171: shows [2c Kc] (three of a kind, Deuces)
+gu_tascheck: mucks hand 
+surfcamp171 collected 850 from pot
+*** SUMMARY ***
+Total pot 850 | Rake 0 
+Board [2h Ac 9c 2d Ts]
+Seat 1: Goldor999 folded on the River
+Seat 2: PktRockets folded before Flop (didn't bet)
+Seat 4: surfcamp171 (button) showed [2c Kc] and won (850) with three of a kind, Deuces
+Seat 5: gu_tascheck (small blind) mucked [Td 6d]
+Seat 7: Actex12 (big blind) folded before Flop
+Seat 8: marmagoa folded on the River
+Seat 9: gildedlilly folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #193564093188: Tournament #2457182185, 8700+1300 Hold'em No Limit - Level III (25/50) - 2018/11/20 19:18:17 ET
+Table '2457182185 15' 9-max Seat #5 is the button
+Seat 1: Goldor999 (5000 in chips) 
+Seat 2: PktRockets (2585 in chips) 
+Seat 3: Cristian fer 77 (1745 in chips) 
+Seat 4: surfcamp171 (1770 in chips) 
+Seat 5: gu_tascheck (1085 in chips) 
+Seat 7: Actex12 (1420 in chips) is sitting out
+Seat 8: marmagoa (590 in chips) 
+Seat 9: gildedlilly (580 in chips) 
+Actex12: posts small blind 25
+marmagoa: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Actex12 [5s Jd]
+gildedlilly: raises 100 to 150
+Goldor999: folds 
+PktRockets: raises 375 to 525
+Cristian fer 77: calls 525
+surfcamp171: folds 
+gu_tascheck has timed out
+gu_tascheck: folds 
+Actex12: folds 
+marmagoa: folds 
+gu_tascheck is disconnected 
+gildedlilly: raises 55 to 580 and is all-in
+PktRockets: calls 55
+Cristian fer 77: calls 55
+*** FLOP *** [Ks 3d 8h]
+PktRockets: bets 908
+Cristian fer 77: folds 
+Uncalled bet (908) returned to PktRockets
+*** TURN *** [Ks 3d 8h] [Qh]
+*** RIVER *** [Ks 3d 8h Qh] [2c]
+*** SHOW DOWN ***
+gildedlilly: shows [Kc 8c] (two pair, Kings and Eights)
+PktRockets: shows [Ah Ts] (high card Ace)
+gildedlilly collected 1815 from pot
+*** SUMMARY ***
+Total pot 1815 | Rake 0 
+Board [Ks 3d 8h Qh 2c]
+Seat 1: Goldor999 folded before Flop (didn't bet)
+Seat 2: PktRockets showed [Ah Ts] and lost with high card Ace
+Seat 3: Cristian fer 77 folded on the Flop
+Seat 4: surfcamp171 folded before Flop (didn't bet)
+Seat 5: gu_tascheck (button) folded before Flop (didn't bet)
+Seat 7: Actex12 (small blind) folded before Flop
+Seat 8: marmagoa (big blind) folded before Flop
+Seat 9: gildedlilly showed [Kc 8c] and won (1815) with two pair, Kings and Eights
+
+
+
+PokerStars Hand #193564129834: Tournament #2457182185, 8700+1300 Hold'em No Limit - Level III (25/50) - 2018/11/20 19:19:35 ET
+Table '2457182185 15' 9-max Seat #7 is the button
+Seat 1: Goldor999 (5000 in chips) 
+Seat 2: PktRockets (2005 in chips) 
+Seat 3: Cristian fer 77 (1165 in chips) 
+Seat 4: surfcamp171 (1770 in chips) 
+Seat 5: gu_tascheck (1085 in chips) is sitting out
+Seat 6: jonathanoptimus (1500 in chips) 
+Seat 7: Actex12 (1395 in chips) is sitting out
+Seat 8: marmagoa (540 in chips) 
+Seat 9: gildedlilly (1815 in chips) 
+marmagoa: posts small blind 25
+gildedlilly: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Actex12 [Th 8d]
+Goldor999: folds 
+PktRockets: raises 300 to 350
+Cristian fer 77: folds 
+surfcamp171: folds 
+gu_tascheck: folds 
+jonathanoptimus: folds 
+Actex12: folds 
+marmagoa: folds 
+gildedlilly: folds 
+Uncalled bet (300) returned to PktRockets
+PktRockets collected 125 from pot
+PktRockets: doesn't show hand 
+*** SUMMARY ***
+Total pot 125 | Rake 0 
+Seat 1: Goldor999 folded before Flop (didn't bet)
+Seat 2: PktRockets collected (125)
+Seat 3: Cristian fer 77 folded before Flop (didn't bet)
+Seat 4: surfcamp171 folded before Flop (didn't bet)
+Seat 5: gu_tascheck folded before Flop (didn't bet)
+Seat 6: jonathanoptimus folded before Flop (didn't bet)
+Seat 7: Actex12 (button) folded before Flop (didn't bet)
+Seat 8: marmagoa (small blind) folded before Flop
+Seat 9: gildedlilly (big blind) folded before Flop
+
+
+
+PokerStars Hand #193564142382: Tournament #2457182185, 8700+1300 Hold'em No Limit - Level III (25/50) - 2018/11/20 19:20:02 ET
+Table '2457182185 15' 9-max Seat #8 is the button
+Seat 1: Goldor999 (5000 in chips) 
+Seat 3: Cristian fer 77 (1165 in chips) 
+Seat 4: surfcamp171 (1770 in chips) 
+Seat 5: gu_tascheck (1085 in chips) is sitting out
+Seat 6: jonathanoptimus (1500 in chips) 
+Seat 7: Actex12 (1395 in chips) is sitting out
+Seat 8: marmagoa (515 in chips) 
+Seat 9: gildedlilly (1765 in chips) 
+gildedlilly: posts small blind 25
+Goldor999: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Actex12 [Jc 2c]
+Cristian fer 77: folds 
+surfcamp171: calls 50
+gu_tascheck: folds 
+jonathanoptimus: calls 50
+Actex12: folds 
+marmagoa: folds 
+gildedlilly: calls 25
+Goldor999: checks 
+*** FLOP *** [Jd 3s 2d]
+gildedlilly: checks 
+Goldor999: bets 100
+surfcamp171: calls 100
+jonathanoptimus: calls 100
+gildedlilly: folds 
+*** TURN *** [Jd 3s 2d] [8h]
+Goldor999: checks 
+surfcamp171: checks 
+jonathanoptimus: bets 200
+Goldor999: folds 
+surfcamp171: calls 200
+*** RIVER *** [Jd 3s 2d 8h] [4c]
+surfcamp171: checks 
+jonathanoptimus: bets 200
+surfcamp171: calls 200
+*** SHOW DOWN ***
+jonathanoptimus: shows [Js 3d] (two pair, Jacks and Threes)
+surfcamp171: mucks hand 
+jonathanoptimus collected 1300 from pot
+*** SUMMARY ***
+Total pot 1300 | Rake 0 
+Board [Jd 3s 2d 8h 4c]
+Seat 1: Goldor999 (big blind) folded on the Turn
+Seat 3: Cristian fer 77 folded before Flop (didn't bet)
+Seat 4: surfcamp171 mucked [Td 8d]
+Seat 5: gu_tascheck folded before Flop (didn't bet)
+Seat 6: jonathanoptimus showed [Js 3d] and won (1300) with two pair, Jacks and Threes
+Seat 7: Actex12 folded before Flop (didn't bet)
+Seat 8: marmagoa (button) folded before Flop (didn't bet)
+Seat 9: gildedlilly (small blind) folded on the Flop
+
+
+
+PokerStars Hand #193564175144: Tournament #2457182185, 8700+1300 Hold'em No Limit - Level IV (50/100) - 2018/11/20 19:21:13 ET
+Table '2457182185 15' 9-max Seat #9 is the button
+Seat 1: Goldor999 (4850 in chips) 
+Seat 2: leeab (1500 in chips) 
+Seat 3: Cristian fer 77 (1165 in chips) 
+Seat 4: surfcamp171 (1220 in chips) 
+Seat 5: gu_tascheck (1085 in chips) 
+Seat 6: jonathanoptimus (2250 in chips) 
+Seat 7: Actex12 (1395 in chips) is sitting out
+Seat 8: marmagoa (515 in chips) 
+Seat 9: gildedlilly (1715 in chips) 
+Goldor999: posts small blind 50
+leeab: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Actex12 [Th 6s]
+Cristian fer 77 has timed out
+Cristian fer 77: folds 
+surfcamp171: calls 100
+gu_tascheck: calls 100
+jonathanoptimus: calls 100
+Actex12: folds 
+marmagoa: folds 
+gildedlilly: folds 
+Goldor999: folds 
+leeab: checks 
+*** FLOP *** [8d Ah 7c]
+leeab: checks 
+surfcamp171: checks 
+gu_tascheck is disconnected 
+gu_tascheck has timed out while disconnected
+gu_tascheck: checks 
+jonathanoptimus: checks 
+*** TURN *** [8d Ah 7c] [3h]
+leeab: checks 
+surfcamp171: checks 
+gu_tascheck is connected 
+gu_tascheck: bets 985 and is all-in
+jonathanoptimus: folds 
+leeab: folds 
+surfcamp171: folds 
+Uncalled bet (985) returned to gu_tascheck
+gu_tascheck collected 450 from pot
+gu_tascheck: doesn't show hand 
+*** SUMMARY ***
+Total pot 450 | Rake 0 
+Board [8d Ah 7c 3h]
+Seat 1: Goldor999 (small blind) folded before Flop
+Seat 2: leeab (big blind) folded on the Turn
+Seat 3: Cristian fer 77 folded before Flop (didn't bet)
+Seat 4: surfcamp171 folded on the Turn
+Seat 5: gu_tascheck collected (450)
+Seat 6: jonathanoptimus folded on the Turn
+Seat 7: Actex12 folded before Flop (didn't bet)
+Seat 8: marmagoa folded before Flop (didn't bet)
+Seat 9: gildedlilly (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #193564222163: Tournament #2457182185, 8700+1300 Hold'em No Limit - Level IV (50/100) - 2018/11/20 19:22:56 ET
+Table '2457182185 15' 9-max Seat #1 is the button
+Seat 1: Goldor999 (4800 in chips) 
+Seat 2: leeab (1400 in chips) 
+Seat 3: Cristian fer 77 (1165 in chips) 
+Seat 4: surfcamp171 (1120 in chips) 
+Seat 5: gu_tascheck (1435 in chips) 
+Seat 6: jonathanoptimus (2150 in chips) 
+Seat 7: Actex12 (1395 in chips) is sitting out
+Seat 8: marmagoa (515 in chips) 
+Seat 9: gildedlilly (1715 in chips) 
+leeab: posts small blind 50
+Cristian fer 77: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Actex12 [Kc As]
+surfcamp171: calls 100
+gu_tascheck: calls 100
+jonathanoptimus: calls 100
+Actex12: folds 
+marmagoa: folds 
+gildedlilly: calls 100
+Goldor999: calls 100
+leeab: calls 50
+Cristian fer 77: checks 
+*** FLOP *** [9s 6h 9c]
+leeab: checks 
+Cristian fer 77: checks 
+surfcamp171: checks 
+gu_tascheck: checks 
+jonathanoptimus: checks 
+gildedlilly: checks 
+Goldor999: bets 100
+leeab: folds 
+Cristian fer 77: folds 
+surfcamp171: calls 100
+gu_tascheck: folds 
+jonathanoptimus: calls 100
+gildedlilly: calls 100
+*** TURN *** [9s 6h 9c] [Jc]
+surfcamp171: checks 
+jonathanoptimus: checks 
+gildedlilly: checks 
+Goldor999: bets 550
+surfcamp171: calls 550
+jonathanoptimus: folds 
+gildedlilly: folds 
+*** RIVER *** [9s 6h 9c Jc] [Qd]
+surfcamp171: checks 
+Goldor999: bets 2200
+surfcamp171: calls 370 and is all-in
+Uncalled bet (1830) returned to Goldor999
+*** SHOW DOWN ***
+Goldor999: shows [5c 9h] (three of a kind, Nines)
+surfcamp171: shows [4h Js] (two pair, Jacks and Nines)
+Goldor999 collected 2940 from pot
+surfcamp171 finished the tournament
+*** SUMMARY ***
+Total pot 2940 | Rake 0 
+Board [9s 6h 9c Jc Qd]
+Seat 1: Goldor999 (button) showed [5c 9h] and won (2940) with three of a kind, Nines
+Seat 2: leeab (small blind) folded on the Flop
+Seat 3: Cristian fer 77 (big blind) folded on the Flop
+Seat 4: surfcamp171 showed [4h Js] and lost with two pair, Jacks and Nines
+Seat 5: gu_tascheck folded on the Flop
+Seat 6: jonathanoptimus folded on the Turn
+Seat 7: Actex12 folded before Flop (didn't bet)
+Seat 8: marmagoa folded before Flop (didn't bet)
+Seat 9: gildedlilly folded on the Turn
+
+
+
+PokerStars Hand #193564275792: Tournament #2457182185, 8700+1300 Hold'em No Limit - Level IV (50/100) - 2018/11/20 19:24:55 ET
+Table '2457182185 15' 9-max Seat #2 is the button
+Seat 1: Goldor999 (6620 in chips) 
+Seat 2: leeab (1300 in chips) 
+Seat 3: Cristian fer 77 (1065 in chips) 
+Seat 4: fepoker10 (1125 in chips) 
+Seat 6: jonathanoptimus (1950 in chips) 
+Seat 7: Actex12 (1395 in chips) is sitting out
+Seat 8: marmagoa (515 in chips) 
+Seat 9: gildedlilly (1515 in chips) 
+Cristian fer 77: posts small blind 50
+fepoker10: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Actex12 [6h 6c]
+jonathanoptimus: calls 100
+Actex12: folds 
+marmagoa: folds 
+gildedlilly: calls 100
+Goldor999: calls 100
+leeab: calls 100
+Cristian fer 77: calls 50
+fepoker10: checks 
+*** FLOP *** [Kh 9h Th]
+Cristian fer 77: checks 
+fepoker10: checks 
+jonathanoptimus: checks 
+gildedlilly: bets 300
+Goldor999: folds 
+leeab: folds 
+Cristian fer 77: folds 
+fepoker10: raises 300 to 600
+jonathanoptimus: folds 
+gildedlilly: calls 300
+*** TURN *** [Kh 9h Th] [Js]
+fepoker10: bets 425 and is all-in
+gildedlilly: calls 425
+*** RIVER *** [Kh 9h Th Js] [Jd]
+*** SHOW DOWN ***
+fepoker10: shows [5h Jh] (a flush, King high)
+gildedlilly: shows [6d Kd] (two pair, Kings and Jacks)
+fepoker10 collected 2650 from pot
+*** SUMMARY ***
+Total pot 2650 | Rake 0 
+Board [Kh 9h Th Js Jd]
+Seat 1: Goldor999 folded on the Flop
+Seat 2: leeab (button) folded on the Flop
+Seat 3: Cristian fer 77 (small blind) folded on the Flop
+Seat 4: fepoker10 (big blind) showed [5h Jh] and won (2650) with a flush, King high
+Seat 6: jonathanoptimus folded on the Flop
+Seat 7: Actex12 folded before Flop (didn't bet)
+Seat 8: marmagoa folded before Flop (didn't bet)
+Seat 9: gildedlilly showed [6d Kd] and lost with two pair, Kings and Jacks
+
+
+
+PokerStars Hand #193564311280: Tournament #2457182185, 8700+1300 Hold'em No Limit - Level V (75/150) - 2018/11/20 19:26:14 ET
+Table '2457182185 15' 9-max Seat #3 is the button
+Seat 1: Goldor999 (6520 in chips) 
+Seat 2: leeab (1200 in chips) 
+Seat 3: Cristian fer 77 (965 in chips) 
+Seat 4: fepoker10 (2650 in chips) 
+Seat 5: OMARcomando (1500 in chips) 
+Seat 7: Actex12 (1395 in chips) is sitting out
+Seat 8: marmagoa (515 in chips) is sitting out
+Seat 9: gildedlilly (390 in chips) 
+fepoker10: posts small blind 75
+OMARcomando: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Actex12 [2s 7c]
+Actex12: folds 
+marmagoa: folds 
+gildedlilly: raises 240 to 390 and is all-in
+Goldor999: calls 390
+leeab: folds 
+Cristian fer 77: folds 
+fepoker10: folds 
+OMARcomando: raises 240 to 630
+Goldor999: raises 1725 to 2355
+OMARcomando: calls 870 and is all-in
+Uncalled bet (855) returned to Goldor999
+*** FLOP *** [8s 6s 9s]
+*** TURN *** [8s 6s 9s] [3s]
+*** RIVER *** [8s 6s 9s 3s] [7s]
+*** SHOW DOWN ***
+OMARcomando: shows [6d As] (a flush, Ace high)
+Goldor999: shows [Kd Th] (a flush, Nine high)
+OMARcomando collected 2220 from side pot
+gildedlilly: shows [Ac Tc] (a flush, Nine high)
+OMARcomando collected 1245 from main pot
+gildedlilly finished the tournament
+*** SUMMARY ***
+Total pot 3465 Main pot 1245. Side pot 2220. | Rake 0 
+Board [8s 6s 9s 3s 7s]
+Seat 1: Goldor999 showed [Kd Th] and lost with a flush, Nine high
+Seat 2: leeab folded before Flop (didn't bet)
+Seat 3: Cristian fer 77 (button) folded before Flop (didn't bet)
+Seat 4: fepoker10 (small blind) folded before Flop
+Seat 5: OMARcomando (big blind) showed [6d As] and won (3465) with a flush, Ace high
+Seat 7: Actex12 folded before Flop (didn't bet)
+Seat 8: marmagoa folded before Flop (didn't bet)
+Seat 9: gildedlilly showed [Ac Tc] and lost with a flush, Nine high
+
+
+
+PokerStars Hand #193564323516: Tournament #2457182185, 8700+1300 Hold'em No Limit - Level V (75/150) - 2018/11/20 19:26:42 ET
+Table '2457182185 15' 9-max Seat #4 is the button
+Seat 1: Goldor999 (5020 in chips) 
+Seat 2: leeab (1200 in chips) 
+Seat 3: Cristian fer 77 (965 in chips) 
+Seat 4: fepoker10 (2575 in chips) 
+Seat 5: OMARcomando (3465 in chips) 
+Seat 7: Actex12 (1395 in chips) is sitting out
+Seat 8: marmagoa (515 in chips) is sitting out
+OMARcomando: posts small blind 75
+Actex12: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Actex12 [6c Js]
+marmagoa: folds 
+Goldor999: folds 
+leeab: folds 
+Cristian fer 77: folds 
+fepoker10: folds 
+OMARcomando: calls 75
+Actex12: folds 
+OMARcomando collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Seat 1: Goldor999 folded before Flop (didn't bet)
+Seat 2: leeab folded before Flop (didn't bet)
+Seat 3: Cristian fer 77 folded before Flop (didn't bet)
+Seat 4: fepoker10 (button) folded before Flop (didn't bet)
+Seat 5: OMARcomando (small blind) collected (300)
+Seat 7: Actex12 (big blind) folded before Flop
+Seat 8: marmagoa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #193564328547: Tournament #2457182185, 8700+1300 Hold'em No Limit - Level V (75/150) - 2018/11/20 19:26:53 ET
+Table '2457182185 15' 9-max Seat #5 is the button
+Seat 1: Goldor999 (5020 in chips) 
+Seat 2: leeab (1200 in chips) 
+Seat 3: Cristian fer 77 (965 in chips) 
+Seat 4: fepoker10 (2575 in chips) 
+Seat 5: OMARcomando (3615 in chips) 
+Seat 7: Actex12 (1245 in chips) is sitting out
+Seat 8: marmagoa (515 in chips) is sitting out
+Seat 9: jeissongh (1100 in chips) 
+Actex12: posts small blind 75
+marmagoa: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Actex12 [Jd 4d]
+jeissongh: calls 150
+Goldor999: calls 150
+leeab: folds 
+Cristian fer 77: calls 150
+fepoker10: folds 
+OMARcomando: calls 150
+Actex12: folds 
+marmagoa: folds 
+*** FLOP *** [9c Tc 7s]
+jeissongh: checks 
+Goldor999: bets 825
+Cristian fer 77: folds 
+OMARcomando: calls 825
+jeissongh: folds 
+*** TURN *** [9c Tc 7s] [3d]
+Goldor999: bets 4045 and is all-in
+OMARcomando: calls 2640 and is all-in
+Uncalled bet (1405) returned to Goldor999
+*** RIVER *** [9c Tc 7s 3d] [Js]
+*** SHOW DOWN ***
+Goldor999: shows [Jc 8s] (a straight, Seven to Jack)
+OMARcomando: shows [Qh 9d] (a pair of Nines)
+Goldor999 collected 7755 from pot
+OMARcomando finished the tournament
+*** SUMMARY ***
+Total pot 7755 | Rake 0 
+Board [9c Tc 7s 3d Js]
+Seat 1: Goldor999 showed [Jc 8s] and won (7755) with a straight, Seven to Jack
+Seat 2: leeab folded before Flop (didn't bet)
+Seat 3: Cristian fer 77 folded on the Flop
+Seat 4: fepoker10 folded before Flop (didn't bet)
+Seat 5: OMARcomando (button) showed [Qh 9d] and lost with a pair of Nines
+Seat 7: Actex12 (small blind) folded before Flop
+Seat 8: marmagoa (big blind) folded before Flop
+Seat 9: jeissongh folded on the Flop
+
+
+
+PokerStars Hand #193564346251: Tournament #2457182185, 8700+1300 Hold'em No Limit - Level V (75/150) - 2018/11/20 19:27:33 ET
+Table '2457182185 15' 9-max Seat #7 is the button
+Seat 1: Goldor999 (9160 in chips) 
+Seat 2: leeab (1200 in chips) 
+Seat 3: Cristian fer 77 (815 in chips) 
+Seat 4: fepoker10 (2575 in chips) 
+Seat 6: e.ekuehn (5866 in chips) 
+Seat 7: Actex12 (1170 in chips) is sitting out
+Seat 8: marmagoa (365 in chips) is sitting out
+Seat 9: jeissongh (950 in chips) 
+marmagoa: posts small blind 75
+jeissongh: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Actex12 [6c Qc]
+Goldor999: calls 150
+leeab: calls 150
+Cristian fer 77: calls 150
+fepoker10: folds 
+e.ekuehn: calls 150
+Actex12: folds 
+marmagoa: folds 
+jeissongh: checks 
+*** FLOP *** [7s 2h 4c]
+jeissongh: checks 
+Goldor999: checks 
+leeab: bets 825
+Cristian fer 77: folds 
+e.ekuehn: calls 825
+jeissongh: folds 
+Goldor999: folds 
+*** TURN *** [7s 2h 4c] [2s]
+leeab: bets 225 and is all-in
+e.ekuehn: calls 225
+*** RIVER *** [7s 2h 4c 2s] [Kc]
+*** SHOW DOWN ***
+leeab: shows [Qd 7d] (two pair, Sevens and Deuces)
+e.ekuehn: shows [7h Ks] (two pair, Kings and Sevens)
+e.ekuehn collected 2925 from pot
+leeab finished the tournament
+*** SUMMARY ***
+Total pot 2925 | Rake 0 
+Board [7s 2h 4c 2s Kc]
+Seat 1: Goldor999 folded on the Flop
+Seat 2: leeab showed [Qd 7d] and lost with two pair, Sevens and Deuces
+Seat 3: Cristian fer 77 folded on the Flop
+Seat 4: fepoker10 folded before Flop (didn't bet)
+Seat 6: e.ekuehn showed [7h Ks] and won (2925) with two pair, Kings and Sevens
+Seat 7: Actex12 (button) folded before Flop (didn't bet)
+Seat 8: marmagoa (small blind) folded before Flop
+Seat 9: jeissongh (big blind) folded on the Flop
+
+
+
+PokerStars Hand #193564368267: Tournament #2457182185, 8700+1300 Hold'em No Limit - Level V (75/150) - 2018/11/20 19:28:22 ET
+Table '2457182185 15' 9-max Seat #8 is the button
+Seat 1: Goldor999 (9010 in chips) 
+Seat 3: Cristian fer 77 (665 in chips) 
+Seat 4: fepoker10 (2575 in chips) 
+Seat 5: badfich1989 (7395 in chips) 
+Seat 6: e.ekuehn (7591 in chips) 
+Seat 7: Actex12 (1170 in chips) is sitting out
+Seat 8: marmagoa (290 in chips) is sitting out
+Seat 9: jeissongh (800 in chips) 
+jeissongh: posts small blind 75
+Goldor999: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Actex12 [Ks Qs]
+Cristian fer 77: folds 
+fepoker10: calls 150
+badfich1989: calls 150
+e.ekuehn: calls 150
+Actex12: folds 
+marmagoa: folds 
+jeissongh: calls 75
+Goldor999: checks 
+*** FLOP *** [Kd 2d 8d]
+jeissongh: checks 
+Goldor999: checks 
+fepoker10: checks 
+badfich1989: bets 150
+e.ekuehn: folds 
+jeissongh: folds 
+Goldor999: calls 150
+fepoker10: folds 
+*** TURN *** [Kd 2d 8d] [6c]
+Goldor999: checks 
+badfich1989: bets 300
+Goldor999: calls 300
+*** RIVER *** [Kd 2d 8d 6c] [3h]
+Goldor999: checks 
+badfich1989: bets 450
+Goldor999: calls 450
+*** SHOW DOWN ***
+badfich1989: shows [Kh 8s] (two pair, Kings and Eights)
+Goldor999: mucks hand 
+badfich1989 collected 2550 from pot
+*** SUMMARY ***
+Total pot 2550 | Rake 0 
+Board [Kd 2d 8d 6c 3h]
+Seat 1: Goldor999 (big blind) mucked [7s 7c]
+Seat 3: Cristian fer 77 folded before Flop (didn't bet)
+Seat 4: fepoker10 folded on the Flop
+Seat 5: badfich1989 showed [Kh 8s] and won (2550) with two pair, Kings and Eights
+Seat 6: e.ekuehn folded on the Flop
+Seat 7: Actex12 folded before Flop (didn't bet)
+Seat 8: marmagoa (button) folded before Flop (didn't bet)
+Seat 9: jeissongh (small blind) folded on the Flop
+
+
+
+PokerStars Hand #193564404424: Tournament #2457182185, 8700+1300 Hold'em No Limit - Level V (75/150) - 2018/11/20 19:29:44 ET
+Table '2457182185 15' 9-max Seat #9 is the button
+Seat 1: Goldor999 (7960 in chips) 
+Seat 2: Franzrfs (1500 in chips) 
+Seat 3: Cristian fer 77 (665 in chips) 
+Seat 4: fepoker10 (2425 in chips) 
+Seat 5: badfich1989 (8895 in chips) 
+Seat 6: e.ekuehn (7441 in chips) 
+Seat 7: Actex12 (1170 in chips) is sitting out
+Seat 8: marmagoa (290 in chips) is sitting out
+Seat 9: jeissongh (650 in chips) 
+Goldor999: posts small blind 75
+Franzrfs: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Actex12 [8d Qc]
+Cristian fer 77: calls 150
+fepoker10: folds 
+badfich1989: folds 
+e.ekuehn: calls 150
+Actex12: folds 
+marmagoa: folds 
+jeissongh: calls 150
+Goldor999: calls 75
+Franzrfs: checks 
+*** FLOP *** [Tc 3c Qs]
+Goldor999: checks 
+Franzrfs: checks 
+Cristian fer 77: checks 
+e.ekuehn: checks 
+jeissongh: checks 
+*** TURN *** [Tc 3c Qs] [4h]
+Goldor999: checks 
+Franzrfs: checks 
+Cristian fer 77: checks 
+e.ekuehn: checks 
+jeissongh: checks 
+*** RIVER *** [Tc 3c Qs 4h] [6d]
+Goldor999 said, "zzzzzzzzzzzzzzzz"
+Goldor999: checks 
+Franzrfs: bets 450
+Cristian fer 77: folds 
+e.ekuehn: calls 450
+jeissongh: folds 
+Goldor999: folds 
+*** SHOW DOWN ***
+Franzrfs: shows [5d 3h] (a pair of Threes)
+e.ekuehn: shows [Js 6s] (a pair of Sixes)
+e.ekuehn collected 1650 from pot
+*** SUMMARY ***
+Total pot 1650 | Rake 0 
+Board [Tc 3c Qs 4h 6d]
+Seat 1: Goldor999 (small blind) folded on the River
+Seat 2: Franzrfs (big blind) showed [5d 3h] and lost with a pair of Threes
+Seat 3: Cristian fer 77 folded on the River
+Seat 4: fepoker10 folded before Flop (didn't bet)
+Seat 5: badfich1989 folded before Flop (didn't bet)
+Seat 6: e.ekuehn showed [Js 6s] and won (1650) with a pair of Sixes
+Seat 7: Actex12 folded before Flop (didn't bet)
+Seat 8: marmagoa folded before Flop (didn't bet)
+Seat 9: jeissongh (button) folded on the River
+
+
+
+PokerStars Hand #193564452068: Tournament #2457182185, 8700+1300 Hold'em No Limit - Level VI (100/200) - 2018/11/20 19:31:17 ET
+Table '2457182185 15' 9-max Seat #1 is the button
+Seat 1: Goldor999 (7810 in chips) 
+Seat 2: Franzrfs (900 in chips) 
+Seat 3: Cristian fer 77 (515 in chips) 
+Seat 4: fepoker10 (2425 in chips) 
+Seat 5: badfich1989 (8895 in chips) 
+Seat 6: e.ekuehn (8491 in chips) 
+Seat 7: Actex12 (1170 in chips) is sitting out
+Seat 8: marmagoa (290 in chips) is sitting out
+Seat 9: jeissongh (500 in chips) 
+Franzrfs: posts small blind 100
+Cristian fer 77: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Actex12 [8d Qh]
+fepoker10: calls 200
+badfich1989: calls 200
+e.ekuehn: folds 
+Actex12: folds 
+marmagoa: folds 
+jeissongh: calls 200
+Goldor999: calls 200
+Franzrfs: calls 100
+Cristian fer 77: checks 
+*** FLOP *** [7d Kd 2h]
+Franzrfs: checks 
+Cristian fer 77: checks 
+fepoker10: bets 600
+badfich1989: folds 
+jeissongh: folds 
+Goldor999: folds 
+Franzrfs: folds 
+Cristian fer 77: folds 
+Uncalled bet (600) returned to fepoker10
+fepoker10 collected 1200 from pot
+*** SUMMARY ***
+Total pot 1200 | Rake 0 
+Board [7d Kd 2h]
+Seat 1: Goldor999 (button) folded on the Flop
+Seat 2: Franzrfs (small blind) folded on the Flop
+Seat 3: Cristian fer 77 (big blind) folded on the Flop
+Seat 4: fepoker10 collected (1200)
+Seat 5: badfich1989 folded on the Flop
+Seat 6: e.ekuehn folded before Flop (didn't bet)
+Seat 7: Actex12 folded before Flop (didn't bet)
+Seat 8: marmagoa folded before Flop (didn't bet)
+Seat 9: jeissongh folded on the Flop
+
+
+
+PokerStars Hand #193564479714: Tournament #2457182185, 8700+1300 Hold'em No Limit - Level VI (100/200) - 2018/11/20 19:32:20 ET
+Table '2457182185 15' 9-max Seat #2 is the button
+Seat 1: Goldor999 (7610 in chips) 
+Seat 2: Franzrfs (700 in chips) 
+Seat 3: Cristian fer 77 (315 in chips) 
+Seat 4: fepoker10 (3425 in chips) 
+Seat 5: badfich1989 (8695 in chips) 
+Seat 6: e.ekuehn (8491 in chips) 
+Seat 7: Actex12 (1170 in chips) 
+Seat 8: marmagoa (290 in chips) 
+Seat 9: jeissongh (300 in chips) 
+Cristian fer 77: posts small blind 100
+fepoker10: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Actex12 [Qs 8d]
+badfich1989: calls 200
+e.ekuehn: calls 200
+Actex12: folds 
+marmagoa: calls 200
+jeissongh: folds 
+Goldor999: folds 
+Franzrfs: folds 
+Cristian fer 77: calls 100
+fepoker10: raises 200 to 400
+badfich1989: calls 200
+e.ekuehn: calls 200
+marmagoa: calls 90 and is all-in
+Cristian fer 77: calls 115 and is all-in
+*** FLOP *** [As 4h 9s]
+fepoker10: bets 1800
+badfich1989: folds 
+e.ekuehn: folds 
+Uncalled bet (1800) returned to fepoker10
+*** TURN *** [As 4h 9s] [Kh]
+*** RIVER *** [As 4h 9s Kh] [Td]
+*** SHOW DOWN ***
+fepoker10: shows [Ts Ac] (two pair, Aces and Tens)
+fepoker10 collected 255 from side pot-2 
+Cristian fer 77: shows [Jc 2h] (high card Ace)
+fepoker10 collected 100 from side pot-1 
+marmagoa: shows [6d 6c] (a pair of Sixes)
+fepoker10 collected 1450 from main pot
+Cristian fer 77 finished the tournament
+marmagoa finished the tournament
+*** SUMMARY ***
+Total pot 1805 Main pot 1450. Side pot-1 100. Side pot-2 255. | Rake 0 
+Board [As 4h 9s Kh Td]
+Seat 1: Goldor999 folded before Flop (didn't bet)
+Seat 2: Franzrfs (button) folded before Flop (didn't bet)
+Seat 3: Cristian fer 77 (small blind) showed [Jc 2h] and lost with high card Ace
+Seat 4: fepoker10 (big blind) showed [Ts Ac] and won (1805) with two pair, Aces and Tens
+Seat 5: badfich1989 folded on the Flop
+Seat 6: e.ekuehn folded on the Flop
+Seat 7: Actex12 folded before Flop (didn't bet)
+Seat 8: marmagoa showed [6d 6c] and lost with a pair of Sixes
+Seat 9: jeissongh folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #193564502354: Tournament #2457182185, 8700+1300 Hold'em No Limit - Level VI (100/200) - 2018/11/20 19:33:13 ET
+Table '2457182185 15' 9-max Seat #4 is the button
+Seat 1: Goldor999 (7610 in chips) 
+Seat 2: Franzrfs (700 in chips) 
+Seat 4: fepoker10 (4830 in chips) 
+Seat 5: badfich1989 (8295 in chips) 
+Seat 6: e.ekuehn (8091 in chips) 
+Seat 7: Actex12 (1170 in chips) 
+Seat 8: dp cosmo (1900 in chips) 
+Seat 9: jeissongh (300 in chips) 
+badfich1989: posts small blind 100
+e.ekuehn: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Actex12 [7d Jc]
+Actex12: folds 
+dp cosmo: folds 
+jeissongh: raises 100 to 300 and is all-in
+Goldor999: calls 300
+Franzrfs: calls 300
+fepoker10: raises 300 to 600
+badfich1989: folds 
+e.ekuehn: calls 400
+Goldor999: calls 300
+Franzrfs: raises 100 to 700 and is all-in
+fepoker10: calls 100
+e.ekuehn: calls 100
+Goldor999: calls 100
+*** FLOP *** [As Qh 2h]
+e.ekuehn: checks 
+Goldor999: checks 
+fepoker10: bets 1600
+e.ekuehn: calls 1600
+Goldor999: folds 
+*** TURN *** [As Qh 2h] [6d]
+e.ekuehn: checks 
+fepoker10: bets 2530 and is all-in
+e.ekuehn: calls 2530
+*** RIVER *** [As Qh 2h 6d] [6s]
+*** SHOW DOWN ***
+e.ekuehn: shows [5c 2c] (two pair, Sixes and Deuces)
+fepoker10: shows [Qc Qd] (a full house, Queens full of Sixes)
+fepoker10 collected 8260 from side pot-2 
+Franzrfs: shows [5h Ks] (a pair of Sixes)
+fepoker10 collected 1600 from side pot-1 
+jeissongh: shows [Ts Ac] (two pair, Aces and Sixes)
+fepoker10 collected 1600 from main pot
+Franzrfs finished the tournament
+jeissongh finished the tournament
+*** SUMMARY ***
+Total pot 11460 Main pot 1600. Side pot-1 1600. Side pot-2 8260. | Rake 0 
+Board [As Qh 2h 6d 6s]
+Seat 1: Goldor999 folded on the Flop
+Seat 2: Franzrfs showed [5h Ks] and lost with a pair of Sixes
+Seat 4: fepoker10 (button) showed [Qc Qd] and won (11460) with a full house, Queens full of Sixes
+Seat 5: badfich1989 (small blind) folded before Flop
+Seat 6: e.ekuehn (big blind) showed [5c 2c] and lost with two pair, Sixes and Deuces
+Seat 7: Actex12 folded before Flop (didn't bet)
+Seat 8: dp cosmo folded before Flop (didn't bet)
+Seat 9: jeissongh showed [Ts Ac] and lost with two pair, Aces and Sixes
+
+
+
+PokerStars Hand #193564538611: Tournament #2457182185, 8700+1300 Hold'em No Limit - Level VI (100/200) - 2018/11/20 19:34:37 ET
+Table '2457182185 15' 9-max Seat #5 is the button
+Seat 1: Goldor999 (6910 in chips) 
+Seat 2: Imurhklbry27 (1500 in chips) 
+Seat 3: titiacac66 (1500 in chips) 
+Seat 4: fepoker10 (11460 in chips) 
+Seat 5: badfich1989 (8195 in chips) 
+Seat 6: e.ekuehn (3261 in chips) 
+Seat 7: Actex12 (1170 in chips) 
+Seat 8: dp cosmo (1900 in chips) 
+Seat 9: jeffGau27 (1500 in chips) 
+e.ekuehn: posts small blind 100
+Actex12: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Actex12 [9d 9s]
+dp cosmo: calls 200
+jeffGau27: calls 200
+Goldor999: folds 
+Imurhklbry27: calls 200
+titiacac66: folds 
+fepoker10: folds 
+badfich1989: folds 
+e.ekuehn: calls 100
+Actex12: raises 970 to 1170 and is all-in
+dp cosmo: raises 730 to 1900 and is all-in
+jeffGau27: calls 1300 and is all-in
+Imurhklbry27: calls 1300 and is all-in
+e.ekuehn: folds 
+Uncalled bet (400) returned to dp cosmo
+*** FLOP *** [Ah 5d 9c]
+*** TURN *** [Ah 5d 9c] [4c]
+*** RIVER *** [Ah 5d 9c 4c] [4h]
+*** SHOW DOWN ***
+dp cosmo: shows [As Qh] (two pair, Aces and Fours)
+jeffGau27: shows [5h Ks] (two pair, Fives and Fours)
+Imurhklbry27: shows [Kd Td] (a pair of Fours)
+dp cosmo collected 990 from side pot
+Actex12: shows [9d 9s] (a full house, Nines full of Fours)
+Actex12 collected 4880 from main pot
+Imurhklbry27 finished the tournament in 334th place
+jeffGau27 finished the tournament in 334th place
+*** SUMMARY ***
+Total pot 5870 Main pot 4880. Side pot 990. | Rake 0 
+Board [Ah 5d 9c 4c 4h]
+Seat 1: Goldor999 folded before Flop (didn't bet)
+Seat 2: Imurhklbry27 showed [Kd Td] and lost with a pair of Fours
+Seat 3: titiacac66 folded before Flop (didn't bet)
+Seat 4: fepoker10 folded before Flop (didn't bet)
+Seat 5: badfich1989 (button) folded before Flop (didn't bet)
+Seat 6: e.ekuehn (small blind) folded before Flop
+Seat 7: Actex12 (big blind) showed [9d 9s] and won (4880) with a full house, Nines full of Fours
+Seat 8: dp cosmo showed [As Qh] and won (990) with two pair, Aces and Fours
+Seat 9: jeffGau27 showed [5h Ks] and lost with two pair, Fives and Fours
+
+
+
+PokerStars Hand #193564564204: Tournament #2457182185, 8700+1300 Hold'em No Limit - Level VII (125/250) - 2018/11/20 19:35:36 ET
+Table '2457182185 28' 9-max Seat #2 is the button
+Seat 1: Actex12 (4880 in chips) 
+Seat 2: poxoreu (4424 in chips) is sitting out
+Seat 3: rodb44 (3770 in chips) 
+Seat 4: Daisy4222 (4850 in chips) 
+Seat 5: Jl1806 (1475 in chips) is sitting out
+Seat 6: Salik70 (1825 in chips) 
+Seat 7: gentlesoul69 (875 in chips) 
+Seat 8: jr_piupiu (4120 in chips) is sitting out
+Seat 9: georged617 (2940 in chips) 
+Actex12: posts the ante 25
+poxoreu: posts the ante 25
+rodb44: posts the ante 25
+Daisy4222: posts the ante 25
+Jl1806: posts the ante 25
+Salik70: posts the ante 25
+gentlesoul69: posts the ante 25
+jr_piupiu: posts the ante 25
+georged617: posts the ante 25
+rodb44: posts small blind 125
+Daisy4222: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Actex12 [Jh 6c]
+Jl1806: folds 
+Salik70: folds 
+gentlesoul69: calls 250
+jr_piupiu: folds 
+georged617: raises 250 to 500
+Actex12: folds 
+poxoreu: folds 
+rodb44: folds 
+Daisy4222: calls 250
+gentlesoul69: calls 250
+*** FLOP *** [8s 9c Kc]
+Daisy4222: bets 250
+gentlesoul69: calls 250
+georged617: raises 250 to 500
+Daisy4222: calls 250
+gentlesoul69: calls 100 and is all-in
+*** TURN *** [8s 9c Kc] [8c]
+Daisy4222: checks 
+georged617: bets 1915 and is all-in
+Daisy4222: calls 1915
+*** RIVER *** [8s 9c Kc 8c] [5h]
+*** SHOW DOWN ***
+Daisy4222: shows [3c 8d] (three of a kind, Eights)
+georged617: shows [9h 9s] (a full house, Nines full of Eights)
+georged617 collected 4130 from side pot
+gentlesoul69: shows [Js 4s] (a pair of Eights)
+georged617 collected 2900 from main pot
+gentlesoul69 finished the tournament in 320th place
+*** SUMMARY ***
+Total pot 7030 Main pot 2900. Side pot 4130. | Rake 0 
+Board [8s 9c Kc 8c 5h]
+Seat 1: Actex12 folded before Flop (didn't bet)
+Seat 2: poxoreu (button) folded before Flop (didn't bet)
+Seat 3: rodb44 (small blind) folded before Flop
+Seat 4: Daisy4222 (big blind) showed [3c 8d] and lost with three of a kind, Eights
+Seat 5: Jl1806 folded before Flop (didn't bet)
+Seat 6: Salik70 folded before Flop (didn't bet)
+Seat 7: gentlesoul69 showed [Js 4s] and lost with a pair of Eights
+Seat 8: jr_piupiu folded before Flop (didn't bet)
+Seat 9: georged617 showed [9h 9s] and won (7030) with a full house, Nines full of Eights
+
+
+
+PokerStars Hand #193564580071: Tournament #2457182185, 8700+1300 Hold'em No Limit - Level VII (125/250) - 2018/11/20 19:36:13 ET
+Table '2457182185 28' 9-max Seat #3 is the button
+Seat 1: Actex12 (4855 in chips) 
+Seat 2: poxoreu (4399 in chips) is sitting out
+Seat 3: rodb44 (3620 in chips) 
+Seat 4: Daisy4222 (1910 in chips) 
+Seat 5: Jl1806 (1450 in chips) is sitting out
+Seat 6: Salik70 (1800 in chips) 
+Seat 8: jr_piupiu (4095 in chips) is sitting out
+Seat 9: georged617 (7030 in chips) 
+Actex12: posts the ante 25
+poxoreu: posts the ante 25
+rodb44: posts the ante 25
+Daisy4222: posts the ante 25
+Jl1806: posts the ante 25
+Salik70: posts the ante 25
+jr_piupiu: posts the ante 25
+georged617: posts the ante 25
+Daisy4222: posts small blind 125
+Jl1806: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Actex12 [3d Jh]
+Salik70: raises 250 to 500
+jr_piupiu: folds 
+georged617: folds 
+Actex12: folds 
+poxoreu: folds 
+rodb44: folds 
+Daisy4222: calls 375
+Jl1806: folds 
+*** FLOP *** [2h 8c 9h]
+Daisy4222: bets 1385 and is all-in
+Salik70: folds 
+Uncalled bet (1385) returned to Daisy4222
+Daisy4222 collected 1450 from pot
+Daisy4222: shows [2s]
+*** SUMMARY ***
+Total pot 1450 | Rake 0 
+Board [2h 8c 9h]
+Seat 1: Actex12 folded before Flop (didn't bet)
+Seat 2: poxoreu folded before Flop (didn't bet)
+Seat 3: rodb44 (button) folded before Flop (didn't bet)
+Seat 4: Daisy4222 (small blind) collected (1450)
+Seat 5: Jl1806 (big blind) folded before Flop
+Seat 6: Salik70 folded on the Flop
+Seat 8: jr_piupiu folded before Flop (didn't bet)
+Seat 9: georged617 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #193564590082: Tournament #2457182185, 8700+1300 Hold'em No Limit - Level VII (125/250) - 2018/11/20 19:36:37 ET
+Table '2457182185 28' 9-max Seat #4 is the button
+Seat 1: Actex12 (4830 in chips) 
+Seat 2: poxoreu (4374 in chips) is sitting out
+Seat 3: rodb44 (3595 in chips) 
+Seat 4: Daisy4222 (2835 in chips) 
+Seat 5: Jl1806 (1175 in chips) is sitting out
+Seat 6: Salik70 (1275 in chips) 
+Seat 7: chalednous (4065 in chips) 
+Seat 8: jr_piupiu (4070 in chips) is sitting out
+Seat 9: georged617 (7005 in chips) 
+Actex12: posts the ante 25
+poxoreu: posts the ante 25
+rodb44: posts the ante 25
+Daisy4222: posts the ante 25
+Jl1806: posts the ante 25
+Salik70: posts the ante 25
+chalednous: posts the ante 25
+jr_piupiu: posts the ante 25
+georged617: posts the ante 25
+Jl1806: posts small blind 125
+Salik70: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Actex12 [Jh Ad]
+chalednous: folds 
+jr_piupiu: folds 
+georged617: folds 
+Actex12: raises 250 to 500
+poxoreu: folds 
+rodb44: folds 
+Daisy4222: folds 
+Jl1806: folds 
+Salik70: raises 750 to 1250 and is all-in
+Actex12: calls 750
+*** FLOP *** [4d 4c Ah]
+*** TURN *** [4d 4c Ah] [7d]
+*** RIVER *** [4d 4c Ah 7d] [Kc]
+*** SHOW DOWN ***
+Salik70: shows [As Js] (two pair, Aces and Fours)
+Actex12: shows [Jh Ad] (two pair, Aces and Fours)
+Salik70 collected 1425 from pot
+Actex12 collected 1425 from pot
+*** SUMMARY ***
+Total pot 2850 | Rake 0 
+Board [4d 4c Ah 7d Kc]
+Seat 1: Actex12 showed [Jh Ad] and won (1425) with two pair, Aces and Fours
+Seat 2: poxoreu folded before Flop (didn't bet)
+Seat 3: rodb44 folded before Flop (didn't bet)
+Seat 4: Daisy4222 (button) folded before Flop (didn't bet)
+Seat 5: Jl1806 (small blind) folded before Flop
+Seat 6: Salik70 (big blind) showed [As Js] and won (1425) with two pair, Aces and Fours
+Seat 7: chalednous folded before Flop (didn't bet)
+Seat 8: jr_piupiu folded before Flop (didn't bet)
+Seat 9: georged617 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #193564602926: Tournament #2457182185, 8700+1300 Hold'em No Limit - Level VII (125/250) - 2018/11/20 19:37:06 ET
+Table '2457182185 28' 9-max Seat #5 is the button
+Seat 1: Actex12 (4980 in chips) 
+Seat 2: poxoreu (4349 in chips) is sitting out
+Seat 3: rodb44 (3570 in chips) 
+Seat 4: Daisy4222 (2810 in chips) 
+Seat 5: Jl1806 (1025 in chips) is sitting out
+Seat 6: Salik70 (1425 in chips) 
+Seat 7: chalednous (4040 in chips) 
+Seat 8: jr_piupiu (4045 in chips) is sitting out
+Seat 9: georged617 (6980 in chips) 
+Actex12: posts the ante 25
+poxoreu: posts the ante 25
+rodb44: posts the ante 25
+Daisy4222: posts the ante 25
+Jl1806: posts the ante 25
+Salik70: posts the ante 25
+chalednous: posts the ante 25
+jr_piupiu: posts the ante 25
+georged617: posts the ante 25
+Salik70: posts small blind 125
+chalednous: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Actex12 [Qs Ad]
+jr_piupiu: folds 
+georged617: folds 
+Actex12: raises 250 to 500
+poxoreu: folds 
+rodb44: folds 
+Daisy4222: calls 500
+Jl1806: folds 
+Salik70: raises 900 to 1400 and is all-in
+chalednous: folds 
+Actex12: raises 3555 to 4955 and is all-in
+Daisy4222: calls 2285 and is all-in
+Uncalled bet (2170) returned to Actex12
+*** FLOP *** [3h Td Ts]
+*** TURN *** [3h Td Ts] [9c]
+*** RIVER *** [3h Td Ts 9c] [6s]
+*** SHOW DOWN ***
+Actex12: shows [Qs Ad] (a pair of Tens)
+Daisy4222: shows [5d 5h] (two pair, Tens and Fives)
+Daisy4222 collected 2770 from side pot
+Salik70: shows [Jc Tc] (three of a kind, Tens)
+Salik70 collected 4675 from main pot
+*** SUMMARY ***
+Total pot 7445 Main pot 4675. Side pot 2770. | Rake 0 
+Board [3h Td Ts 9c 6s]
+Seat 1: Actex12 showed [Qs Ad] and lost with a pair of Tens
+Seat 2: poxoreu folded before Flop (didn't bet)
+Seat 3: rodb44 folded before Flop (didn't bet)
+Seat 4: Daisy4222 showed [5d 5h] and won (2770) with two pair, Tens and Fives
+Seat 5: Jl1806 (button) folded before Flop (didn't bet)
+Seat 6: Salik70 (small blind) showed [Jc Tc] and won (4675) with three of a kind, Tens
+Seat 7: chalednous (big blind) folded before Flop
+Seat 8: jr_piupiu folded before Flop (didn't bet)
+Seat 9: georged617 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #193564616138: Tournament #2457182185, 8700+1300 Hold'em No Limit - Level VII (125/250) - 2018/11/20 19:37:37 ET
+Table '2457182185 28' 9-max Seat #6 is the button
+Seat 1: Actex12 (2170 in chips) 
+Seat 2: poxoreu (4324 in chips) is sitting out
+Seat 3: rodb44 (3545 in chips) 
+Seat 4: Daisy4222 (2770 in chips) 
+Seat 5: Jl1806 (1000 in chips) is sitting out
+Seat 6: Salik70 (4675 in chips) 
+Seat 7: chalednous (3765 in chips) 
+Seat 8: jr_piupiu (4020 in chips) is sitting out
+Seat 9: georged617 (6955 in chips) 
+Actex12: posts the ante 25
+poxoreu: posts the ante 25
+rodb44: posts the ante 25
+Daisy4222: posts the ante 25
+Jl1806: posts the ante 25
+Salik70: posts the ante 25
+chalednous: posts the ante 25
+jr_piupiu: posts the ante 25
+georged617: posts the ante 25
+chalednous: posts small blind 125
+jr_piupiu: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Actex12 [2h 3c]
+georged617: folds 
+Actex12: folds 
+poxoreu: folds 
+rodb44: folds 
+Daisy4222: folds 
+Jl1806: folds 
+Salik70: calls 250
+chalednous: calls 125
+jr_piupiu: folds 
+*** FLOP *** [8d As 8h]
+chalednous: bets 500
+Salik70: calls 500
+*** TURN *** [8d As 8h] [Th]
+chalednous: bets 1250
+Salik70: raises 2650 to 3900 and is all-in
+chalednous: folds 
+Uncalled bet (2650) returned to Salik70
+Salik70 collected 4475 from pot
+Salik70: doesn't show hand 
+*** SUMMARY ***
+Total pot 4475 | Rake 0 
+Board [8d As 8h Th]
+Seat 1: Actex12 folded before Flop (didn't bet)
+Seat 2: poxoreu folded before Flop (didn't bet)
+Seat 3: rodb44 folded before Flop (didn't bet)
+Seat 4: Daisy4222 folded before Flop (didn't bet)
+Seat 5: Jl1806 folded before Flop (didn't bet)
+Seat 6: Salik70 (button) collected (4475)
+Seat 7: chalednous (small blind) folded on the Turn
+Seat 8: jr_piupiu (big blind) folded before Flop
+Seat 9: georged617 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #193564634345: Tournament #2457182185, 8700+1300 Hold'em No Limit - Level VII (125/250) - 2018/11/20 19:38:20 ET
+Table '2457182185 28' 9-max Seat #7 is the button
+Seat 1: Actex12 (2145 in chips) 
+Seat 2: poxoreu (4299 in chips) is sitting out
+Seat 3: rodb44 (3520 in chips) 
+Seat 4: Daisy4222 (2745 in chips) 
+Seat 5: Jl1806 (975 in chips) is sitting out
+Seat 6: Salik70 (7125 in chips) 
+Seat 7: chalednous (1740 in chips) 
+Seat 8: jr_piupiu (3745 in chips) is sitting out
+Seat 9: georged617 (6930 in chips) 
+Actex12: posts the ante 25
+poxoreu: posts the ante 25
+rodb44: posts the ante 25
+Daisy4222: posts the ante 25
+Jl1806: posts the ante 25
+Salik70: posts the ante 25
+chalednous: posts the ante 25
+jr_piupiu: posts the ante 25
+georged617: posts the ante 25
+jr_piupiu: posts small blind 125
+georged617: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Actex12 [9h Jc]
+Actex12: folds 
+poxoreu: folds 
+rodb44: folds 
+Daisy4222: folds 
+Jl1806: folds 
+Salik70: calls 250
+chalednous: folds 
+jr_piupiu: folds 
+georged617: checks 
+*** FLOP *** [Ks Ad 5h]
+georged617: checks 
+Salik70: bets 250
+georged617: folds 
+Uncalled bet (250) returned to Salik70
+Salik70 collected 850 from pot
+Salik70: doesn't show hand 
+*** SUMMARY ***
+Total pot 850 | Rake 0 
+Board [Ks Ad 5h]
+Seat 1: Actex12 folded before Flop (didn't bet)
+Seat 2: poxoreu folded before Flop (didn't bet)
+Seat 3: rodb44 folded before Flop (didn't bet)
+Seat 4: Daisy4222 folded before Flop (didn't bet)
+Seat 5: Jl1806 folded before Flop (didn't bet)
+Seat 6: Salik70 collected (850)
+Seat 7: chalednous (button) folded before Flop (didn't bet)
+Seat 8: jr_piupiu (small blind) folded before Flop
+Seat 9: georged617 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #193564644737: Tournament #2457182185, 8700+1300 Hold'em No Limit - Level VII (125/250) - 2018/11/20 19:38:45 ET
+Table '2457182185 28' 9-max Seat #8 is the button
+Seat 1: Actex12 (2120 in chips) 
+Seat 2: poxoreu (4274 in chips) is sitting out
+Seat 3: rodb44 (3495 in chips) 
+Seat 4: Daisy4222 (2720 in chips) 
+Seat 5: Jl1806 (950 in chips) is sitting out
+Seat 6: Salik70 (7700 in chips) 
+Seat 7: chalednous (1715 in chips) 
+Seat 8: jr_piupiu (3595 in chips) is sitting out
+Seat 9: georged617 (6655 in chips) 
+Actex12: posts the ante 25
+poxoreu: posts the ante 25
+rodb44: posts the ante 25
+Daisy4222: posts the ante 25
+Jl1806: posts the ante 25
+Salik70: posts the ante 25
+chalednous: posts the ante 25
+jr_piupiu: posts the ante 25
+georged617: posts the ante 25
+georged617: posts small blind 125
+Actex12: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Actex12 [5c 3h]
+poxoreu: folds 
+rodb44: folds 
+Daisy4222: calls 250
+Jl1806: folds 
+Salik70: raises 500 to 750
+chalednous: folds 
+jr_piupiu: folds 
+georged617: folds 
+Actex12: folds 
+Daisy4222: calls 500
+*** FLOP *** [8h Td Kc]
+Daisy4222: bets 250
+Salik70: raises 2600 to 2850
+Daisy4222: calls 1695 and is all-in
+Uncalled bet (905) returned to Salik70
+*** TURN *** [8h Td Kc] [7c]
+*** RIVER *** [8h Td Kc 7c] [Ah]
+*** SHOW DOWN ***
+Daisy4222: shows [Ac 8s] (two pair, Aces and Eights)
+Salik70: shows [Ad As] (three of a kind, Aces)
+Salik70 collected 5990 from pot
+Daisy4222 finished the tournament in 254th place
+*** SUMMARY ***
+Total pot 5990 | Rake 0 
+Board [8h Td Kc 7c Ah]
+Seat 1: Actex12 (big blind) folded before Flop
+Seat 2: poxoreu folded before Flop (didn't bet)
+Seat 3: rodb44 folded before Flop (didn't bet)
+Seat 4: Daisy4222 showed [Ac 8s] and lost with two pair, Aces and Eights
+Seat 5: Jl1806 folded before Flop (didn't bet)
+Seat 6: Salik70 showed [Ad As] and won (5990) with three of a kind, Aces
+Seat 7: chalednous folded before Flop (didn't bet)
+Seat 8: jr_piupiu (button) folded before Flop (didn't bet)
+Seat 9: georged617 (small blind) folded before Flop
+
+
+
+PokerStars Hand #193564659255: Tournament #2457182185, 8700+1300 Hold'em No Limit - Level VII (125/250) - 2018/11/20 19:39:19 ET
+Table '2457182185 28' 9-max Seat #9 is the button
+Seat 1: Actex12 (1845 in chips) 
+Seat 2: poxoreu (4249 in chips) is sitting out
+Seat 3: rodb44 (3470 in chips) 
+Seat 5: Jl1806 (925 in chips) is sitting out
+Seat 6: Salik70 (10970 in chips) 
+Seat 7: chalednous (1690 in chips) 
+Seat 8: jr_piupiu (3570 in chips) is sitting out
+Seat 9: georged617 (6505 in chips) 
+Actex12: posts the ante 25
+poxoreu: posts the ante 25
+rodb44: posts the ante 25
+Jl1806: posts the ante 25
+Salik70: posts the ante 25
+chalednous: posts the ante 25
+jr_piupiu: posts the ante 25
+georged617: posts the ante 25
+Actex12: posts small blind 125
+poxoreu: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Actex12 [Ah 5d]
+rodb44: calls 250
+Jl1806: folds 
+Salik70: raises 250 to 500
+chalednous: folds 
+jr_piupiu: folds 
+georged617: folds 
+Actex12: folds 
+poxoreu: folds 
+rodb44: calls 250
+*** FLOP *** [Tc 2c 9s]
+rodb44: checks 
+Salik70: bets 1575
+rodb44: folds 
+Uncalled bet (1575) returned to Salik70
+Salik70 collected 1575 from pot
+Salik70: doesn't show hand 
+*** SUMMARY ***
+Total pot 1575 | Rake 0 
+Board [Tc 2c 9s]
+Seat 1: Actex12 (small blind) folded before Flop
+Seat 2: poxoreu (big blind) folded before Flop
+Seat 3: rodb44 folded on the Flop
+Seat 5: Jl1806 folded before Flop (didn't bet)
+Seat 6: Salik70 collected (1575)
+Seat 7: chalednous folded before Flop (didn't bet)
+Seat 8: jr_piupiu folded before Flop (didn't bet)
+Seat 9: georged617 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #193564671562: Tournament #2457182185, 8700+1300 Hold'em No Limit - Level VII (125/250) - 2018/11/20 19:39:48 ET
+Table '2457182185 28' 9-max Seat #1 is the button
+Seat 1: Actex12 (1695 in chips) 
+Seat 2: poxoreu (3974 in chips) is sitting out
+Seat 3: rodb44 (2945 in chips) 
+Seat 4: brunobomfigl (2575 in chips) 
+Seat 5: Jl1806 (900 in chips) is sitting out
+Seat 6: Salik70 (12020 in chips) 
+Seat 7: chalednous (1665 in chips) 
+Seat 8: jr_piupiu (3545 in chips) is sitting out
+Seat 9: georged617 (6480 in chips) 
+Actex12: posts the ante 25
+poxoreu: posts the ante 25
+rodb44: posts the ante 25
+brunobomfigl: posts the ante 25
+Jl1806: posts the ante 25
+Salik70: posts the ante 25
+chalednous: posts the ante 25
+jr_piupiu: posts the ante 25
+georged617: posts the ante 25
+poxoreu: posts small blind 125
+rodb44: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Actex12 [Qh 3d]
+brunobomfigl: folds 
+Jl1806: folds 
+Salik70: raises 500 to 750
+chalednous: folds 
+jr_piupiu: folds 
+georged617: folds 
+Actex12: folds 
+poxoreu: folds 
+rodb44: folds 
+Uncalled bet (500) returned to Salik70
+Salik70 collected 850 from pot
+Salik70: doesn't show hand 
+*** SUMMARY ***
+Total pot 850 | Rake 0 
+Seat 1: Actex12 (button) folded before Flop (didn't bet)
+Seat 2: poxoreu (small blind) folded before Flop
+Seat 3: rodb44 (big blind) folded before Flop
+Seat 4: brunobomfigl folded before Flop (didn't bet)
+Seat 5: Jl1806 folded before Flop (didn't bet)
+Seat 6: Salik70 collected (850)
+Seat 7: chalednous folded before Flop (didn't bet)
+Seat 8: jr_piupiu folded before Flop (didn't bet)
+Seat 9: georged617 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #193564677488: Tournament #2457182185, 8700+1300 Hold'em No Limit - Level VII (125/250) - 2018/11/20 19:40:03 ET
+Table '2457182185 28' 9-max Seat #2 is the button
+Seat 1: Actex12 (1670 in chips) 
+Seat 2: poxoreu (3824 in chips) is sitting out
+Seat 3: rodb44 (2670 in chips) 
+Seat 4: brunobomfigl (2550 in chips) 
+Seat 5: Jl1806 (875 in chips) is sitting out
+Seat 6: Salik70 (12595 in chips) 
+Seat 7: chalednous (1640 in chips) 
+Seat 8: jr_piupiu (3520 in chips) is sitting out
+Seat 9: georged617 (6455 in chips) 
+Actex12: posts the ante 25
+poxoreu: posts the ante 25
+rodb44: posts the ante 25
+brunobomfigl: posts the ante 25
+Jl1806: posts the ante 25
+Salik70: posts the ante 25
+chalednous: posts the ante 25
+jr_piupiu: posts the ante 25
+georged617: posts the ante 25
+rodb44: posts small blind 125
+brunobomfigl: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Actex12 [4s 6d]
+Jl1806: folds 
+Salik70: calls 250
+chalednous: folds 
+jr_piupiu: folds 
+georged617: folds 
+Actex12: folds 
+poxoreu: folds 
+rodb44: calls 125
+brunobomfigl: checks 
+*** FLOP *** [Th Qc 5c]
+rodb44: checks 
+brunobomfigl: checks 
+Salik70: checks 
+*** TURN *** [Th Qc 5c] [2d]
+rodb44: checks 
+brunobomfigl: checks 
+Salik70: bets 250
+rodb44: folds 
+brunobomfigl: folds 
+Uncalled bet (250) returned to Salik70
+Salik70 collected 975 from pot
+Salik70: doesn't show hand 
+*** SUMMARY ***
+Total pot 975 | Rake 0 
+Board [Th Qc 5c 2d]
+Seat 1: Actex12 folded before Flop (didn't bet)
+Seat 2: poxoreu (button) folded before Flop (didn't bet)
+Seat 3: rodb44 (small blind) folded on the Turn
+Seat 4: brunobomfigl (big blind) folded on the Turn
+Seat 5: Jl1806 folded before Flop (didn't bet)
+Seat 6: Salik70 collected (975)
+Seat 7: chalednous folded before Flop (didn't bet)
+Seat 8: jr_piupiu folded before Flop (didn't bet)
+Seat 9: georged617 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #193564692992: Tournament #2457182185, 8700+1300 Hold'em No Limit - Level VIII (150/300) - 2018/11/20 19:40:39 ET
+Table '2457182185 28' 9-max Seat #3 is the button
+Seat 1: Actex12 (1645 in chips) 
+Seat 2: poxoreu (3799 in chips) is sitting out
+Seat 3: rodb44 (2395 in chips) 
+Seat 4: brunobomfigl (2275 in chips) 
+Seat 5: Jl1806 (850 in chips) is sitting out
+Seat 6: Salik70 (13295 in chips) 
+Seat 7: chalednous (1615 in chips) 
+Seat 8: jr_piupiu (3495 in chips) is sitting out
+Seat 9: georged617 (6430 in chips) 
+Actex12: posts the ante 25
+poxoreu: posts the ante 25
+rodb44: posts the ante 25
+brunobomfigl: posts the ante 25
+Jl1806: posts the ante 25
+Salik70: posts the ante 25
+chalednous: posts the ante 25
+jr_piupiu: posts the ante 25
+georged617: posts the ante 25
+brunobomfigl: posts small blind 150
+Jl1806: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Actex12 [9h 6h]
+Salik70: raises 300 to 600
+chalednous: folds 
+jr_piupiu: folds 
+georged617: folds 
+Actex12: folds 
+poxoreu: folds 
+rodb44: calls 600
+brunobomfigl: folds 
+Jl1806: folds 
+*** FLOP *** [6d 5d Ad]
+Salik70: bets 600
+rodb44: raises 1170 to 1770 and is all-in
+Salik70: calls 1170
+*** TURN *** [6d 5d Ad] [5c]
+*** RIVER *** [6d 5d Ad 5c] [7s]
+*** SHOW DOWN ***
+Salik70: shows [Jc Qc] (a pair of Fives)
+rodb44: shows [9c As] (two pair, Aces and Fives)
+rodb44 collected 5415 from pot
+*** SUMMARY ***
+Total pot 5415 | Rake 0 
+Board [6d 5d Ad 5c 7s]
+Seat 1: Actex12 folded before Flop (didn't bet)
+Seat 2: poxoreu folded before Flop (didn't bet)
+Seat 3: rodb44 (button) showed [9c As] and won (5415) with two pair, Aces and Fives
+Seat 4: brunobomfigl (small blind) folded before Flop
+Seat 5: Jl1806 (big blind) folded before Flop
+Seat 6: Salik70 showed [Jc Qc] and lost with a pair of Fives
+Seat 7: chalednous folded before Flop (didn't bet)
+Seat 8: jr_piupiu folded before Flop (didn't bet)
+Seat 9: georged617 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #193564710274: Tournament #2457182185, 8700+1300 Hold'em No Limit - Level VIII (150/300) - 2018/11/20 19:41:20 ET
+Table '2457182185 28' 9-max Seat #4 is the button
+Seat 1: Actex12 (1620 in chips) 
+Seat 2: poxoreu (3774 in chips) is sitting out
+Seat 3: rodb44 (5415 in chips) 
+Seat 4: brunobomfigl (2100 in chips) 
+Seat 5: Jl1806 (525 in chips) is sitting out
+Seat 6: Salik70 (10900 in chips) 
+Seat 7: chalednous (1590 in chips) 
+Seat 8: jr_piupiu (3470 in chips) is sitting out
+Seat 9: georged617 (6405 in chips) 
+Actex12: posts the ante 25
+poxoreu: posts the ante 25
+rodb44: posts the ante 25
+brunobomfigl: posts the ante 25
+Jl1806: posts the ante 25
+Salik70: posts the ante 25
+chalednous: posts the ante 25
+jr_piupiu: posts the ante 25
+georged617: posts the ante 25
+Jl1806: posts small blind 150
+Salik70: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Actex12 [Jc Qc]
+chalednous: folds 
+jr_piupiu: folds 
+georged617: folds 
+Actex12: calls 300
+poxoreu: folds 
+rodb44: folds 
+brunobomfigl: folds 
+Jl1806: folds 
+Salik70: checks 
+*** FLOP *** [8d 7h 2c]
+Salik70: bets 1200
+Actex12: calls 1200
+*** TURN *** [8d 7h 2c] [Kc]
+Salik70: bets 600
+Actex12: calls 95 and is all-in
+Uncalled bet (505) returned to Salik70
+*** RIVER *** [8d 7h 2c Kc] [2h]
+*** SHOW DOWN ***
+Salik70: shows [Jh 2s] (three of a kind, Deuces)
+Actex12: shows [Jc Qc] (a pair of Deuces)
+Salik70 collected 3565 from pot
+Actex12 finished the tournament in 226th place
+*** SUMMARY ***
+Total pot 3565 | Rake 0 
+Board [8d 7h 2c Kc 2h]
+Seat 1: Actex12 showed [Jc Qc] and lost with a pair of Deuces
+Seat 2: poxoreu folded before Flop (didn't bet)
+Seat 3: rodb44 folded before Flop (didn't bet)
+Seat 4: brunobomfigl (button) folded before Flop (didn't bet)
+Seat 5: Jl1806 (small blind) folded before Flop
+Seat 6: Salik70 (big blind) showed [Jh 2s] and won (3565) with three of a kind, Deuces
+Seat 7: chalednous folded before Flop (didn't bet)
+Seat 8: jr_piupiu folded before Flop (didn't bet)
+Seat 9: georged617 folded before Flop (didn't bet)
+
+
+
