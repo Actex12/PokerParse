@@ -8,7 +8,7 @@ The Work process:
 
 StartingData.txt is the unparsed transaction data recorded from pokerstars.
 
-Use SQL procedures to create 3 user friendly tables. (PokerMaster.csv, Tally.csv, PTran.csv) Sample records of tables is posted
+Use SQL procedures to create 3 user friendly tables. (PokerMaster.csv, Tally.csv, PTran.csv) Sample records of tables are posted
 
 Data dictionaries are in the wiki of this repository
 
